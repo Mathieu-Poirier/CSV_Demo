@@ -1,0 +1,12 @@
+﻿body {
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+input {
+    border-radius: 0px;
+    border-block-color: black;
+}
